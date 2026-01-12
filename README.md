@@ -31,6 +31,6 @@ Here are the technologies I'm currently working with:
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GianKAraujo&layout=compact&theme=dracula&hide_border=true)
 
 ---
-<a href="https://github.com/GianKAraujo">
+<a href="https://www.linkedin.com/in/gianluca-k-de-araujo-33235b38a">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
